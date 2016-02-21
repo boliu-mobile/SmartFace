@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/boliu/Documents/startUp/bittiger/SmartFace/app/build/intermediates/exploded-aar/com.melnykov/floatingactionbutton/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="8c6ebb7d087d1a30bf84356bd2aecf85309fc024">
+        <dex dex="/Users/boliu/Documents/startUp/bittiger/SmartFace/app/build/intermediates/pre-dexed/debug/classes-da2f912609db92c3af40945cf4abaa7e59384797.jar" />
+    </item>
+    <item
+        jar="/Users/boliu/Documents/startUp/bittiger/SmartFace/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="/Users/boliu/Documents/startUp/bittiger/SmartFace/app/build/intermediates/pre-dexed/debug/classes-1738cce58279315e8ca1eed9d2db474fba5557f9.jar" />
+    </item>
+    <item
+        jar="/Users/boliu/Documents/startUp/bittiger/SmartFace/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="/Users/boliu/Documents/startUp/bittiger/SmartFace/app/build/intermediates/pre-dexed/debug/classes-e87e96b4e5e3df611394d2814ae5e8ce4c59713b.jar" />
+    </item>
+    <item
+        jar="/Users/boliu/Documents/startUp/bittiger/SmartFace/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="/Users/boliu/Documents/startUp/bittiger/SmartFace/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-f458be16da9ff171ed42939438e753ba997a93c0.jar" />
+    </item>
+    <item
+        jar="/Users/boliu/Documents/startUp/bittiger/SmartFace/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="97f7e239e86ef994de894818fdd8a71d2e89d6aa">
+        <dex dex="/Users/boliu/Documents/startUp/bittiger/SmartFace/app/build/intermediates/pre-dexed/debug/classes-270d2d80a39347c2e78ec2b52f2a047365624983.jar" />
+    </item>
+    <item
+        jar="/Users/boliu/.gradle/caches/modules-2/files-2.1/de.greenrobot/eventbus/2.4.0/ddd166d01b3158d1c00576d29f7ed15c030df719/eventbus-2.4.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ddd166d01b3158d1c00576d29f7ed15c030df719">
+        <dex dex="/Users/boliu/Documents/startUp/bittiger/SmartFace/app/build/intermediates/pre-dexed/debug/eventbus-2.4.0-b28a428976233096e0d6c2e4bd6c0b9cab61206e.jar" />
+    </item>
+    <item
+        jar="/Users/boliu/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife/6.1.0/63735f48b82bcd24cdd33821342428252eb1ca5a/butterknife-6.1.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="63735f48b82bcd24cdd33821342428252eb1ca5a">
+        <dex dex="/Users/boliu/Documents/startUp/bittiger/SmartFace/app/build/intermediates/pre-dexed/debug/butterknife-6.1.0-e1da7b52f9ae8e6341e215ebc3e0e2440308e237.jar" />
+    </item>
+    <item
+        jar="/Users/boliu/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/Users/boliu/Documents/startUp/bittiger/SmartFace/app/build/intermediates/pre-dexed/debug/library-2.4.0-5c7d9bafecc867011ba62915e5a9a2bfd911525e.jar" />
+    </item>
+    <item
+        jar="/Users/boliu/Documents/startUp/bittiger/SmartFace/app/libs/universal-image-loader-1.9.4.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="dd9eeb557650c4ad7394df23f0f5cf27a7cfc697">
+        <dex dex="/Users/boliu/Documents/startUp/bittiger/SmartFace/app/build/intermediates/pre-dexed/debug/universal-image-loader-1.9.4-7c7b71c73665ae41af92a78566026fc38660913f.jar" />
+    </item>
+    <item
+        jar="/Applications/android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="/Users/boliu/Documents/startUp/bittiger/SmartFace/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.0-c34b5adab590fb131802d351ab47bd78c2f63b4a.jar" />
+    </item>
+    <item
+        jar="/Users/boliu/Documents/startUp/bittiger/SmartFace/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="5b37cf49773f7f17aca9830efd3053b0cac56728">
+        <dex dex="/Users/boliu/Documents/startUp/bittiger/SmartFace/app/build/intermediates/pre-dexed/debug/classes-8180310b55fe9b730016a0d9694fc26d49f1021e.jar" />
+    </item>
+    <item
+        jar="/Users/boliu/Documents/startUp/bittiger/SmartFace/app/libs/faceppsdk.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d3384595c699a5be231ad099b07b96741806750a">
+        <dex dex="/Users/boliu/Documents/startUp/bittiger/SmartFace/app/build/intermediates/pre-dexed/debug/faceppsdk-ecd7e17a166a405b59367225e167cc7bf5da007a.jar" />
+    </item>
+    <item
+        jar="/Users/boliu/Documents/startUp/bittiger/SmartFace/app/libs/fastjson-1.2.5.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9f675e9a1b2bf1224183005752a9214226e8aa8e">
+        <dex dex="/Users/boliu/Documents/startUp/bittiger/SmartFace/app/build/intermediates/pre-dexed/debug/fastjson-1.2.5-4e4a0f6daeaaa64b1286c250425360177bd7d97b.jar" />
+    </item>
+    <item
+        jar="/Users/boliu/Documents/startUp/bittiger/SmartFace/app/build/intermediates/exploded-aar/com.rengwuxian.materialedittext/library/2.1.3/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d5ae30ab253dafcf501f0855645b0e72b8a5d47a">
+        <dex dex="/Users/boliu/Documents/startUp/bittiger/SmartFace/app/build/intermediates/pre-dexed/debug/classes-5490f143677435207f2c422c5e806b6b9df775e5.jar" />
+    </item>
+    <item
+        jar="/Users/boliu/Documents/startUp/bittiger/SmartFace/app/build/intermediates/exploded-aar/it.sephiroth.android.library.horizontallistview/hlistview/1.2.2/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="698658e3af1e3f2a5b199e0d09ee6c57793405bd">
+        <dex dex="/Users/boliu/Documents/startUp/bittiger/SmartFace/app/build/intermediates/pre-dexed/debug/classes-ca0a88f9febe2fdd5b49b6957209d29c70502f1e.jar" />
+    </item>
+    <item
+        jar="/Users/boliu/.gradle/caches/modules-2/files-2.1/com.readystatesoftware.systembartint/systembartint/1.0.3/de4f7404e2f58d8f6e83cb1e85d0c2d6c2987287/systembartint-1.0.3.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="de4f7404e2f58d8f6e83cb1e85d0c2d6c2987287">
+        <dex dex="/Users/boliu/Documents/startUp/bittiger/SmartFace/app/build/intermediates/pre-dexed/debug/systembartint-1.0.3-c69eb7ec047fdf46ba837766b95ebb927b43735f.jar" />
+    </item>
+
+</items>

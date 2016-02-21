@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="hlistview-1.2.2">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/app/build/intermediates/exploded-aar/it.sephiroth.android.library.horizontallistview/hlistview/1.2.2/res" />
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/it.sephiroth.android.library.horizontallistview/hlistview/1.2.2/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/it.sephiroth.android.library.horizontallistview/hlistview/1.2.2/aa7a5d4642f9794c066948d912e72e712e3d54ef/hlistview-1.2.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
